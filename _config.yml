@@ -1,0 +1,5 @@
+title: KaloCalc for iPhone how-to
+theme: jekyll-theme-cayman
+exclude:
+  - docs/_template.bg.md
+  - docs/_template.en.md
