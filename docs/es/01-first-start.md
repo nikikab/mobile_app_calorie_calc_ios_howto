@@ -2,7 +2,7 @@
 
 Qué ves al abrir KaloCalc por primera vez y cómo cambiar el idioma.
 
-**Requisitos:** Ninguno. La aplicación es gratuita y no necesita cuenta. Funciona en un iPhone con iOS 17 o posterior.
+**Requisitos:** Ninguno. La aplicación no necesita cuenta. Funciona en un iPhone con iOS 17 o posterior.
 
 ## Pasos
 

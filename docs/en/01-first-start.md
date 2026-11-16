@@ -2,7 +2,7 @@
 
 What you see when you first open KaloCalc and how to change the language.
 
-**Prerequisites:** None. The app is free and needs no account. It runs on an iPhone with iOS 17 or later.
+**Prerequisites:** None. The app needs no account. It runs on an iPhone with iOS 17 or later.
 
 ## Steps
 

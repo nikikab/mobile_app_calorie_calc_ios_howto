@@ -2,7 +2,7 @@
 
 Was du beim ersten Öffnen von KaloCalc siehst und wie du die Sprache änderst.
 
-**Voraussetzungen:** Keine. Die App ist kostenlos und braucht kein Konto. Sie läuft auf einem iPhone mit iOS 17 oder neuer.
+**Voraussetzungen:** Keine. Die App braucht kein Konto. Sie läuft auf einem iPhone mit iOS 17 oder neuer.
 
 ## Schritte
 
