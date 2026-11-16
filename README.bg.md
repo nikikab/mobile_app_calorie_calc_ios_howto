@@ -28,3 +28,7 @@ media/NN-scenario/       снимки (en-NN-*.png, bg-NN-*.png)
 ```
 
 Снимките са от iOS симулатор (iPhone Pro Max, 1320×2868) с демо данни, направени от CI на проекта.
+
+## Проблем
+
+Намерена грешка? Съобщете я като [GitHub issue](https://github.com/nikikab/mobile_app_calorie_calc_ios_howto/issues).

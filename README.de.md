@@ -27,3 +27,7 @@ media/NN-scenario/       Screenshots (en-NN-*.png, bg-NN-*.png)
 ```
 
 Die Screenshots stammen aus dem iOS-Simulator (iPhone Pro Max, 1320×2868) mit Demodaten und zeigen die englische Oberfläche.
+
+## Problem melden
+
+Fehler gefunden? Melde ihn als [GitHub-Issue](https://github.com/nikikab/mobile_app_calorie_calc_ios_howto/issues).
